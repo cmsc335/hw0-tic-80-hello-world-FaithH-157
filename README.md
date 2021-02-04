@@ -1,6 +1,10 @@
 # HW0: tic80-hello-world
 
-Write a small "hello, world!" program for the TIC-80 and export the [HTML](https://twitter.com/i/status/1245387000477253633) to github.
+Faith Hwang <fh8910@bard.edu>
+02/05/2021
+CMSC 335: Games System
+HW0: Tic-80 Hello World
+I worked alone on this assigment with assistance from useful links below.
 
 ## Useful links
 
