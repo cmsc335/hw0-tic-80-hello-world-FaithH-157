@@ -1,9 +1,13 @@
 # HW0: tic80-hello-world
 
 Faith Hwang <fh8910@bard.edu>
+
 02/05/2021
+
 CMSC 335: Games System
+
 HW0: Tic-80 Hello World
+
 I worked alone on this assigment with assistance from useful links below.
 
 ## Useful links
